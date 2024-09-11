@@ -31,9 +31,7 @@ Go to [Open Fuego](https://open-fuego.github.io/Open-Fuego-Coding-Tools/) to fin
 9. Test the URL in a browser. Magic, no? Actually, it's computer science.  
 
 
-Check out our other cool coding tools at [Open Fuego](https://open-fuego.github.io/Open-Fuego-Coding-Tools/).<p>&nbsp;</p><p>&nbsp;</p>
-
-
+Check out our other cool coding tools at [Open Fuego](https://open-fuego.github.io/Open-Fuego-Coding-Tools/).<p>&nbsp;</p><p>&nbsp;</p
 
 
 ## Code editors 
